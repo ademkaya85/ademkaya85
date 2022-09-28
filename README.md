@@ -5,7 +5,7 @@
 
 - 🌱 I’m keen on learning mathematics behind machine learning algorithms
 
-- 👯 I’ve mathematical background in **scientific computing and numerical linear algebra**
+- 👯 I’ve mathematical background in **scientific computing** and **numerical linear algebra**
 
 - 🤝 I’m currently in the job market
 
